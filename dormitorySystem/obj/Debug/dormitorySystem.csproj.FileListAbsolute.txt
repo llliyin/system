@@ -1,0 +1,6 @@
+P:\dormitorySystem\dormitorySystem\bin\dormitorySystem.dll.config
+P:\dormitorySystem\dormitorySystem\bin\dormitorySystem.dll
+P:\dormitorySystem\dormitorySystem\bin\dormitorySystem.pdb
+P:\dormitorySystem\dormitorySystem\obj\Debug\dormitorySystem.csprojResolveAssemblyReference.cache
+P:\dormitorySystem\dormitorySystem\obj\Debug\dormitorySystem.dll
+P:\dormitorySystem\dormitorySystem\obj\Debug\dormitorySystem.pdb
